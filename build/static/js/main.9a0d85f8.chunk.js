@@ -1,0 +1,2 @@
+(this["webpackJsonpsts-chat"]=this["webpackJsonpsts-chat"]||[]).push([[0],{10:function(t,e,c){},11:function(t,e,c){"use strict";c.r(e);var n=c(0),s=c(1),r=c.n(s),i=c(3),o=c.n(i);c(9),c(10);var a=function(){return Object(n.jsx)("div",{className:"App",children:Object(n.jsx)("h1",{children:"Hellow World"})})};o.a.render(Object(n.jsx)(r.a.StrictMode,{children:Object(n.jsx)(a,{})}),document.getElementById("root"))},9:function(t,e,c){}},[[11,1,2]]]);
+//# sourceMappingURL=main.9a0d85f8.chunk.js.map
